@@ -91,3 +91,6 @@ menuItems.forEach(item => {
     })
 })
 
+const likePost = (postID, userID) => {
+    //codes
+}
