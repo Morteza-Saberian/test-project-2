@@ -93,4 +93,5 @@ menuItems.forEach(item => {
 
 const likePost = (postID, userID) => {
     //codes
+    return {post: postID, user: userID, isLike: true}
 }
